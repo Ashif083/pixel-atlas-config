@@ -1,1 +1,82 @@
-
+{
+  "chapters": [
+    {
+      "id": "lost_desert",
+      "title": "The Lost Desert",
+      "description": "Ancient worlds buried beneath endless sand.",
+      "cover_image": "https://res.cloudinary.com/mbhps38k/image/upload/w_1280,h_720,c_fill,f_auto,q_auto/v1787036396/desert_cover.jpg",
+      "wallpapers": [
+        {
+          "id": "desert_01",
+          "title": "Lost City Emerging from the Dunes",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787036408/thumb_lost-city-emerging-from-the-dunes.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787036420/lost-city-emerging-from-the-dunes.png",
+          "is_premium": false
+        },
+        {
+          "id": "desert_02",
+          "title": "Caravan Crossing Enormous Dunes",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787036405/caravan-crossing-enormous-dunes-at-sunset.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787036405/caravan-crossing-enormous-dunes-at-sunset.png",
+          "is_premium": false
+        },
+        {
+          "id": "desert_03",
+          "title": "Ancient Temple Half-Buried in Sand",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787036389/thumb_ancient-temple-half-buried-in-sand.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787036403/ancient-temple-half-buried-in-sand.png",
+          "is_premium": false
+        },
+        {
+          "id": "desert_04",
+          "title": "Desert Marketplace at Golden Hour",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787036386/thumb_desert-marketplace-at-golden-hour.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787036417/desert-marketplace-at-golden-hour.png",
+          "is_premium": false
+        },
+        {
+          "id": "desert_05",
+          "title": "Lone Traveler Beside an Oasis",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787036407/thumb_lone-traveler-beside-an-oasis.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787036443/lone-traveler-beside-an-oasis.png",
+          "is_premium": false
+        },
+        {
+          "id": "desert_06",
+          "title": "The Buried Colosseum",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787036430/thumb_the-buried-colosseum.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787036457/the-buried-colosseum.png",
+          "is_premium": false
+        },
+        {
+          "id": "desert_07",
+          "title": "Sandstorm Approaching an Abandoned City",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787036423/thumb_sandstorm-approaching-an-abandoned-city.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787036442/sandstorm-approaching-an-abandoned-city.png",
+          "is_premium": false
+        },
+        {
+          "id": "desert_08",
+          "title": "Ancient City Glowing Beneath Star-Filled Sky",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787036402/ancient-city-glowing-beneath-star-filled-sky.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787036402/ancient-city-glowing-beneath-star-filled-sky.png",
+          "is_premium": true
+        },
+        {
+          "id": "desert_09",
+          "title": "Hidden Palace Discovered Beneath the Dunes",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787036387/thumb_hidden-palace-discovered-beneath-the-dunes.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787036407/hidden-palace-discovered-beneath-the-dunes.png",
+          "is_premium": true
+        },
+        {
+          "id": "desert_10",
+          "title": "Moonlit Desert Ruins",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787036415/thumb_moonlit-desert-ruins.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787036440/moonlit-desert-ruins.png",
+          "is_premium": true
+        }
+      ]
+    }
+  ]
+}
