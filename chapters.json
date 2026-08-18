@@ -77,6 +77,84 @@
           "is_premium": true
         }
       ]
+    },
+    {
+      "id": "way_of_the_samurai",
+      "title": "Way of the Samurai",
+      "description": "Honor, blades, and quiet landscapes of ancient Japan.",
+      "cover_image": "https://res.cloudinary.com/mbhps38k/image/upload/w_1280,h_720,c_fill,f_auto,q_auto/v1787070827/samurai_cover.jpg",
+      "wallpapers": [
+        {
+          "id": "samurai_01",
+          "title": "Warrior Crossing an Old Wooden Bridge",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787070325/thumb_warrior-crossing-an-old-wooden-bridge.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787070345/warrior-crossing-an-old-wooden-bridge.png",
+          "is_premium": false
+        },
+        {
+          "id": "samurai_02",
+          "title": "Samurai Standing Beneath Cherry Blossoms",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787070315/thumb_samurai-standing-beneath-cherry-blossoms.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787070343/samurai-standing-beneath-cherry-blossoms.png",
+          "is_premium": false
+        },
+        {
+          "id": "samurai_03",
+          "title": "Japanese Village During Sunset",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787070329/thumb_japanese-village-during-sunset.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787070312/japanese-village-during-sunset.png",
+          "is_premium": false
+        },
+        {
+          "id": "samurai_04",
+          "title": "Ancient Castle During a Snowstorm",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787070326/thumb_ancient-castle-during-a-snowstorm.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787070326/ancient-castle-during-a-snowstorm.png",
+          "is_premium": false
+        },
+        {
+          "id": "samurai_05",
+          "title": "Ancient Castle Surrounded by Fog",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787070326/thumb_ancient-castle-surrounded-by-fog.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787070311/ancient-castle-surrounded-by-fog.png",
+          "is_premium": false
+        },
+        {
+          "id": "samurai_06",
+          "title": "Samurai Overlooking Mountains",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787070302/thumb_samurai-overlooking-mountains.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787070326/samurai-overlooking-mountains.png",
+          "is_premium": false
+        },
+        {
+          "id": "samurai_07",
+          "title": "Samurai Beneath a Full Moon",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787070303/thumb_samurai-beneath-a-full-moon.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787070324/samurai-beneath-a-full-moon.png",
+          "is_premium": false
+        },
+        {
+          "id": "samurai_08",
+          "title": "Samurai Walking Through a Bamboo Forest",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787070320/thumb_samurai-walking-through-a-bamboo-forest.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787070322/Samurai_walking_through_a_bamboo_forest.png",
+          "is_premium": true
+        },
+        {
+          "id": "samurai_09",
+          "title": "Lantern-Lit Village at Night",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787070300/thumb_lantern-lit-village-at-night.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787070320/lantern-lit-village-at-night.png",
+          "is_premium": true
+        },
+        {
+          "id": "samurai_10",
+          "title": "Rainy Temple Courtyard",
+          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v178707000/thumb_rainy-temple-courtyard.png",
+          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787070313/rainy-temple-courtyard.png",
+          "is_premium": true
+        }
+      ]
     }
   ]
 }
