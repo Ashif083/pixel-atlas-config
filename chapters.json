@@ -148,12 +148,12 @@
           "is_premium": true
         },
         {
-          "id": "samurai_10",
-          "title": "Rainy Temple Courtyard",
-          "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v178707000/thumb_rainy-temple-courtyard.png",
-          "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787070313/rainy-temple-courtyard.png",
-          "is_premium": true
-        }
+  "id": "samurai_10",
+  "title": "Rainy Temple Courtyard",
+  "thumbnail_url": "https://res.cloudinary.com/mbhps38k/image/upload/w_360,h_640,c_fill,f_auto,q_auto/v1787070313/thumb_rainy-temple-courtyard.png",
+  "full_url": "https://res.cloudinary.com/mbhps38k/image/upload/f_auto,q_auto/v1787070313/rainy-temple-courtyard.png",
+  "is_premium": true
+}
       ]
     }
   ]
